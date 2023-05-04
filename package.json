@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "index.js",
+  "source": "./index.html",
   "scripts": {
     "dev": "parcel ./index.html",
     "build": "parcel build ./index.html"
