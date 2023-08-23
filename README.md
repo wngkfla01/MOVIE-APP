@@ -13,7 +13,7 @@
 ### **[MovieApp](https://roaring-dolphin-d6dd06.netlify.app/)**
 
 ## 📌 구현 페이지 및 프리뷰
-![movieapp](https://github.com/wngkfla01/MOVIE-APP/assets/64509945/70483070-3fb7-45fa-a174-d80c029778a0)
+![movieappvideo](https://github.com/wngkfla01/MOVIE-APP/assets/64509945/ba75fc88-284a-42d1-8b87-481234a49f75)
 
 ## 📌 기술 스택
 ### Development
