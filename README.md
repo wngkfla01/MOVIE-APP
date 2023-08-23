@@ -17,10 +17,7 @@
 
 ## 📌 기술 스택
 ### Development
-<img src="https://img.shields.io/badge/vanillajs-%2361DAFB.svg?&style=for-the-badge&logo=vanillajs&logoColor=black" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
-
-### Library
-<img src="https://img.shields.io/badge/axios-%2361DAFB.svg?&style=for-the-badge&logo=axios&logoColor=black" /> 	<img src="https://img.shields.io/badge/eslint-%234B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 
 ### Environment
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> 	<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -29,5 +26,6 @@
 <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
 
 ## 📌 프로젝트 기능 소개
-- 할 일 목록 추가/삭제/수정
-- 할 일 완료 처리
+- 영화 검색 기능
+- 'load more'기능
+- 영화 상세 정보 페이지
