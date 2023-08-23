@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=828282&height=200&fontColor=006400&section=header&text=Movie%20App&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=282828&height=200&fontColor=FFAF00&section=header&text=Movie%20App&fontSize=50)
 
 ## 📌 프로젝트 소개
 ### Movie App
