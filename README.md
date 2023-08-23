@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
 
 ## 📌 프로젝트 기능 소개
-- 영화 검색 기능
-- 'load more'기능
-- 영화 상세 정보 페이지
+- 사용자가 입력한 검색어를 포함한 영화제목을 가진 영화목록 출력
+- 'view more'버튼으로 검색결과 더 표시
+- 영화 포스터 클릭시 해당 영화의 상세정보 페이지로 이동
